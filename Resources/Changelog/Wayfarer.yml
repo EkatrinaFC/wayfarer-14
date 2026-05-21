@@ -3581,3 +3581,12 @@ Entries:
   id: 6905
   time: '2026-05-21T22:05:05.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/932
+- author: VVersengt
+  changes:
+    - type: Fix
+      message: >-
+        Shelegs now properly spawn with hardsuits when selecting Wayfarer or
+        Emergency Responder roles
+  id: 6906
+  time: '2026-05-21T23:12:21.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/952
