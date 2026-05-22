@@ -3615,3 +3615,12 @@ Entries:
   id: 6909
   time: '2026-05-22T04:39:06.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/931
+- author: VVersengt
+  changes:
+    - type: Fix
+      message: >-
+        Fixed pre-filled security and cgp jetpacks having the incorrect tank
+        volumes.
+  id: 6910
+  time: '2026-05-22T04:41:02.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/940
