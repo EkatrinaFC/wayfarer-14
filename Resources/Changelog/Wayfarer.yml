@@ -3748,3 +3748,12 @@ Entries:
   id: 6926
   time: '2026-05-25T20:40:20.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/981
+- author: DevArchwave
+  changes:
+    - type: Add
+      message: >-
+        Edison now has its own cargo request computers, including a special one
+        for the PM.
+  id: 6927
+  time: '2026-05-25T20:42:32.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/982
