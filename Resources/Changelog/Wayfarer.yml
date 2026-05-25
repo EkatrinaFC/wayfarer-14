@@ -3725,3 +3725,10 @@ Entries:
   id: 6923
   time: '2026-05-25T01:26:59.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/989
+- author: DevArchwave
+  changes:
+    - type: Add
+      message: Capital thrusters can now be linked properly.
+  id: 6924
+  time: '2026-05-25T01:29:21.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/990
