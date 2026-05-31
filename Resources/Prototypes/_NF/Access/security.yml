@@ -23,7 +23,7 @@
   tags:
   - Maintenance
   - External
-  # - Command # Removed, command access is for heads of departments. -Wayfarer
+  # - Command # Wayfarer: Removed, command access is for heads of departments.
   - Brig
   - Security
   - Mercenary
