@@ -4026,3 +4026,10 @@ Entries:
   id: 6958
   time: '2026-05-31T17:17:23.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1048
+- author: Luweth
+  changes:
+    - type: Add
+      message: Added Vox smoking sprites.
+  id: 6959
+  time: '2026-05-31T17:17:53.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1050
