@@ -4040,3 +4040,10 @@ Entries:
   id: 6960
   time: '2026-05-31T17:18:37.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1043
+- author: Luweth
+  changes:
+    - type: Remove
+      message: Removed the loud as heck Yaar! from outlaw briefing.
+  id: 6961
+  time: '2026-05-31T17:19:08.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1041
