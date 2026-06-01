@@ -4081,3 +4081,12 @@ Entries:
   id: 6965
   time: '2026-06-01T01:48:42.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1056
+- author: DevArchwave
+  changes:
+    - type: Tweak
+      message: >-
+        Certain stomachs have had their reagent capability increased from 40u to
+        50u.
+  id: 6966
+  time: '2026-06-01T01:49:10.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1054
