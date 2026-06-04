@@ -4247,3 +4247,10 @@ Entries:
   id: 6984
   time: '2026-06-04T02:10:37.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1079
+- author: drraccoony
+  changes:
+    - type: Tweak
+      message: Changed radar blip prediction (Most noticeable with ship projectiles)
+  id: 6985
+  time: '2026-06-04T02:20:11.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1066
