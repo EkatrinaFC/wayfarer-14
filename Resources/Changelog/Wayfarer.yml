@@ -4367,3 +4367,12 @@ Entries:
   id: 7000
   time: '2026-06-08T02:29:14.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1104
+- author: drraccoony
+  changes:
+    - type: Remove
+      message: >-
+        The Pit Collided with Zekke-4 and has been destroyed (ThePit POI
+        Removed)
+  id: 7001
+  time: '2026-06-08T02:30:44.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1130
