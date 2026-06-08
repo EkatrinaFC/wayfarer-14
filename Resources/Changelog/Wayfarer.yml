@@ -4447,3 +4447,10 @@ Entries:
   id: 7010
   time: '2026-06-08T18:35:45.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1133
+- author: DevArchwave
+  changes:
+    - type: Fix
+      message: IPC sprite layering/visibility has hopefully been fixed.
+  id: 7011
+  time: '2026-06-08T18:36:36.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1118
