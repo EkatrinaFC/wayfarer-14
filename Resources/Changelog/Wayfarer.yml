@@ -4383,3 +4383,10 @@ Entries:
   id: 7002
   time: '2026-06-08T02:31:28.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1128
+- author: DevArchwave
+  changes:
+    - type: Fix
+      message: Fixed infoshades' inventory footprint.
+  id: 7003
+  time: '2026-06-08T02:36:53.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1121
