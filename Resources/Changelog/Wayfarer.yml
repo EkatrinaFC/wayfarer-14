@@ -4351,3 +4351,12 @@ Entries:
   id: 6998
   time: '2026-06-06T21:17:33.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1097
+- author: RoY7x
+  changes:
+    - type: Add
+      message: >-
+        RAEWS (Radar Assisted Early Warning System) Dishes are now in the game.
+        Hopefully they'll do their job and alert you to an impending crisis!
+  id: 6999
+  time: '2026-06-08T02:04:34.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1058
