@@ -4424,3 +4424,12 @@ Entries:
   id: 7007
   time: '2026-06-08T02:56:17.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1124
+- author: Luweth
+  changes:
+    - type: Add
+      message: Added cracked PDA
+    - type: Fix
+      message: Fixed pirate PDA
+  id: 7008
+  time: '2026-06-08T04:42:43.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1132
