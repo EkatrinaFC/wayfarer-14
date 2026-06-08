@@ -4397,3 +4397,10 @@ Entries:
   id: 7004
   time: '2026-06-08T02:40:42.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1114
+- author: VVersengt
+  changes:
+    - type: Tweak
+      message: Animal organs can now be blended.
+  id: 7005
+  time: '2026-06-08T02:41:11.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1112
