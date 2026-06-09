@@ -4461,3 +4461,10 @@ Entries:
   id: 7012
   time: '2026-06-09T01:23:54.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1117
+- author: Luweth
+  changes:
+    - type: Fix
+      message: Fixed Lamplight naming issue.
+  id: 7013
+  time: '2026-06-09T08:13:22.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1138
