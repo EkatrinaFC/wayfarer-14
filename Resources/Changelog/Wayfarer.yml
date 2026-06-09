@@ -4454,3 +4454,10 @@ Entries:
   id: 7011
   time: '2026-06-08T18:36:36.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1118
+- author: Goodfaun
+  changes:
+    - type: Fix
+      message: Consent guidebook not having square brackets in the link format.
+  id: 7012
+  time: '2026-06-09T01:23:54.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1117
