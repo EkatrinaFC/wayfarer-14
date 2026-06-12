@@ -4535,3 +4535,12 @@ Entries:
   id: 7022
   time: '2026-06-11T04:57:39.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1151
+- author: EkatrinaFC
+  changes:
+    - type: Remove
+      message: >-
+        Removed Dusk's safezone. Departmental areas now require raid
+        permissions.
+  id: 7023
+  time: '2026-06-12T05:25:49.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1158
