@@ -4544,3 +4544,10 @@ Entries:
   id: 7023
   time: '2026-06-12T05:25:49.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1158
+- author: drraccoony
+  changes:
+    - type: Tweak
+      message: Feroxi can tail thump now
+  id: 7024
+  time: '2026-06-12T05:38:31.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1152
